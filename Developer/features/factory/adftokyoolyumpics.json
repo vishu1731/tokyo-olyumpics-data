@@ -1,0 +1,9 @@
+{
+	"name": "adftokyoolyumpics",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fcc483e-dac9-4de0-ba2e-5fb916e4d404",
+		"tenantId": "321b3eea-a201-4276-a86e-a9499b44fb50"
+	}
+}
