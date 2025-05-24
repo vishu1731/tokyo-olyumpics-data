@@ -1,0 +1,12 @@
+{
+	"name": "LSAthletesHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/vishu1731/tokyo-olyumpics-data/blob/main/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
